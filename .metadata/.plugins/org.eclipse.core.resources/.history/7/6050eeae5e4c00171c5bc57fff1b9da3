@@ -1,10 +1,7 @@
 package org.foobarspam.proxyPattern;
 
-import java.util.ArrayList;
-
 public class ProxyMrMeeseeks extends MrMeeseeks {
-	//Propiedad
-	private ProxyMrMeeseeks mrMe;
+	ProxyMrMeeseeks mrMe;
 	
 	//Constructor
 	ProxyMrMeeseeks(){
@@ -20,14 +17,7 @@ public class ProxyMrMeeseeks extends MrMeeseeks {
 		this.mrMe = mrMe;
 	}
 
-	public void pushButton(ArrayList<MrMeeseeks> setMrMe) {
-		
-		
-	}
-
-	public void formulateRequest(String string, String string2) {
-		
-		}
+	public void pushButton(setMrMe);
 		
 	
 

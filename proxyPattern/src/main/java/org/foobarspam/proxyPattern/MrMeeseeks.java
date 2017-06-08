@@ -25,6 +25,8 @@ public class MrMeeseeks implements Dorable {
 	//Metodos 
 	public void sayMessageOnCreate(){
 		
+		System.out.println("I'm Mr Meeseeks 1001. Look at meeee!");
+		
 		
 	}
 	//public void sayMessageOnRequest(){

@@ -7,7 +7,7 @@ public class ProxyMrMeeseeks extends MrMeeseeks {
 	private ProxyMrMeeseeks mrMe;
 	
 	//Constructor
-	ProxyMrMeeseeks(){
+	public ProxyMrMeeseeks(){
 		
 	}
 	
@@ -23,12 +23,18 @@ public class ProxyMrMeeseeks extends MrMeeseeks {
 	public void pushButton(ArrayList<MrMeeseeks> setMrMe) {
 		
 		
+		
+		
+	
+	}
+	public void createMrMeeseeks(ArrayList<MrMeeseeks> setMrMe) {
+		mrMe = (ProxyMrMeeseeks) new MrMeeseeks();
+		mrMe.sayMessageOnCreate();
 	}
 
 	public void formulateRequest(String string, String string2) {
 		
-		}
-		
-	
+	}
+
 
 	}

@@ -26,7 +26,7 @@ public class App {
     		box.pushButton(setMrMe);    
     		System.out.println("I wanna be popular at school!");
     		//box.getMrMe().formulateRequest("Be", "popular at school");
-//    		System.out.println();
+    		System.out.println();
 //    		
 //    		box.pushButton(setMrMe);
 //    		System.out.println("I wanna be a more complete woman!");

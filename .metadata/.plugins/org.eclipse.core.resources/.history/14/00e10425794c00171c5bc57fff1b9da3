@@ -34,7 +34,7 @@ public class MrMeeseeks implements Doable {
 	}
 	public void sayMessageOnRequest(){
 		System.out.println(generateMessageOnRequest());
-		
+		//System.out.println("poooof" + id);
 	}
 
 		//String[] requestMessage = new String[];
@@ -57,12 +57,6 @@ public class MrMeeseeks implements Doable {
 		System.out.println("All done!");
 	}
 	public void sayMessageOnExplode(){
-		
-	}
-	public void formulateRequest(String first, String second) {
-		sayMessageOnRequest();
-		System.out.println(doRequest(first, second));
-		
 		
 	}
 

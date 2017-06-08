@@ -1,6 +1,5 @@
 package org.foobarspam.proxyPattern;
 
-import java.util.concurrent.ThreadLocalRandom;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.Random;
 
@@ -34,7 +33,7 @@ public class MrMeeseeks implements Doable {
 	}
 	public void sayMessageOnRequest(){
 		System.out.println(generateMessageOnRequest());
-		
+		//System.out.println("poooof" + id);
 	}
 
 		//String[] requestMessage = new String[];
@@ -45,7 +44,7 @@ public class MrMeeseeks implements Doable {
           que lanza Mr Meeseeks cuando se le formula
 	 * la peticion:*/
 	String [] mensaje = {"Oooh yeah! Can do!", "Yes sireee!", "Oh, yeah! Yes, ma'am!"};
-	int numRandom =  ThreadLocalRandom.current().nextInt(mensaje.length);
+	int numRandom = random.nextInt(mensaje.length); ;
 	//System.out.println( mensaje[numRandon] );
 		//return messageOnDone;
      	return mensaje[numRandom];
@@ -57,12 +56,6 @@ public class MrMeeseeks implements Doable {
 		System.out.println("All done!");
 	}
 	public void sayMessageOnExplode(){
-		
-	}
-	public void formulateRequest(String first, String second) {
-		sayMessageOnRequest();
-		System.out.println(doRequest(first, second));
-		
 		
 	}
 

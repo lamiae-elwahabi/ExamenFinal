@@ -11,11 +11,11 @@ public class ProxyMrMeeseeks {
 		
 	}
 	
-	//Getter
+	//Metodos
 	public MrMeeseeks getMrMe() {
 		return mrMe;
 	}
-	//Metodos
+
 	public void pushButton(ArrayList<MrMeeseeks> mrMeeseeks) {
 		createMrMeeseeks(mrMeeseeks);
 	

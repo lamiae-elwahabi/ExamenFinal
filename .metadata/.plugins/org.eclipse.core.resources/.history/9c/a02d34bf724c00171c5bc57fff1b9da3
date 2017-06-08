@@ -10,8 +10,6 @@ public class MrMeeseeks implements Doable {
 	private String[] messageOnRequest;
 	private String messageOnDone = " ";
 	private String messageOnExplode = " ";
-	Random  rnd = new Random();
-	
 	
 	//Constructor
 	public MrMeeseeks(){
@@ -27,7 +25,7 @@ public class MrMeeseeks implements Doable {
 	}
 	//Metodos 
 	public void sayMessageOnCreate(){
-		System.out.println("I'm Mr Meeseeks "+ getId() + "."+ " Look at meeee!");
+		System.out.println("I'm Mr Meeseeks. Look at meeee!");
 		
 		
 	}
@@ -47,18 +45,9 @@ public class MrMeeseeks implements Doable {
 	int numRandon = (int) Math.round(Math.random() * 2 ) ;
 
 	System.out.println(  mensaje[numRandon] );
-		return messageOnDone;
+	return messageOnDone;
          	
 	}
-	public String doRequest(Object accion, Object objeto) {
-		
-		return null;
-	}
-	public void sayMessageOnDone() {
-		System.out.println("All done!");
-	}
-	public void 
-
 }
 
 

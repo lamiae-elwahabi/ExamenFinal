@@ -44,21 +44,16 @@ public class MrMeeseeks implements Doable {
           que lanza Mr Meeseeks cuando se le formula
 	 * la peticion:*/
 	String [] mensaje = {"Oooh yeah! Can do!", "Yes sireee!", "Oh, yeah! Yes, ma'am!"};
-	int numRandon = (int) Math.round(Math.random() * 2 ) ;
+	int numRandon = (int)  ) ;
 
 	System.out.println(  mensaje[numRandon] );
 		return messageOnDone;
          	
 	}
 	public String doRequest(Object accion, Object objeto) {
-		
+		// TODO Auto-generated method stub
 		return null;
 	}
-	public void sayMessageOnDone() {
-		System.out.println("All done!");
-	}
-	public void 
-
 }
 
 

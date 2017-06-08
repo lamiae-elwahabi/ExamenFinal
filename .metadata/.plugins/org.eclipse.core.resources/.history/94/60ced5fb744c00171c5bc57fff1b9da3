@@ -47,18 +47,13 @@ public class MrMeeseeks implements Doable {
 	int numRandon = (int) Math.round(Math.random() * 2 ) ;
 
 	System.out.println(  mensaje[numRandon] );
-		return messageOnDone;
+	return messageOnDone;
          	
 	}
 	public String doRequest(Object accion, Object objeto) {
-		
+		// TODO Auto-generated method stub
 		return null;
 	}
-	public void sayMessageOnDone() {
-		System.out.println("All done!");
-	}
-	public void 
-
 }
 
 

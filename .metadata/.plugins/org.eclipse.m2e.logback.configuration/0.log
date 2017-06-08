@@ -259,3 +259,55 @@
 2017-06-08 19:42:03,369 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-06-08 19:42:03,369 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lamiae\worksapceExamenJunio\proxyPattern\src\main\resources
 2017-06-08 19:42:03,372 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-08 19:42:03,372 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lamiae\worksapceExamenJunio\proxyPattern\src\test\resources
+2017-06-08 19:48:58,637 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-08 19:48:58,639 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lamiae\worksapceExamenJunio\proxyPattern\src\main\resources
+2017-06-08 19:48:58,641 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-08 19:48:58,642 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lamiae\worksapceExamenJunio\proxyPattern\src\test\resources
+2017-06-08 19:49:03,714 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-08 19:49:03,714 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lamiae\worksapceExamenJunio\proxyPattern\src\main\resources
+2017-06-08 19:49:03,776 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-08 19:49:03,778 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lamiae\worksapceExamenJunio\proxyPattern\src\test\resources
+2017-06-08 19:50:24,484 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-08 19:50:24,484 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lamiae\worksapceExamenJunio\proxyPattern\src\main\resources
+2017-06-08 19:50:24,487 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-08 19:50:24,487 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lamiae\worksapceExamenJunio\proxyPattern\src\test\resources
+2017-06-08 19:50:57,937 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-08 19:50:57,937 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lamiae\worksapceExamenJunio\proxyPattern\src\main\resources
+2017-06-08 19:50:57,940 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-08 19:50:57,940 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lamiae\worksapceExamenJunio\proxyPattern\src\test\resources
+2017-06-08 19:51:22,353 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-08 19:51:22,354 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lamiae\worksapceExamenJunio\proxyPattern\src\main\resources
+2017-06-08 19:51:22,356 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-08 19:51:22,357 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lamiae\worksapceExamenJunio\proxyPattern\src\test\resources
+2017-06-08 19:55:00,601 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-08 19:55:00,603 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lamiae\worksapceExamenJunio\proxyPattern\src\main\resources
+2017-06-08 19:55:00,605 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-08 19:55:00,606 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lamiae\worksapceExamenJunio\proxyPattern\src\test\resources
+2017-06-08 19:55:54,970 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-08 19:55:54,971 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lamiae\worksapceExamenJunio\proxyPattern\src\main\resources
+2017-06-08 19:55:54,972 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-08 19:55:54,973 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lamiae\worksapceExamenJunio\proxyPattern\src\test\resources
+2017-06-08 20:04:58,505 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-08 20:04:58,505 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lamiae\worksapceExamenJunio\proxyPattern\src\main\resources
+2017-06-08 20:04:58,509 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-08 20:04:58,510 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lamiae\worksapceExamenJunio\proxyPattern\src\test\resources
+2017-06-08 20:06:03,663 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-08 20:06:03,663 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lamiae\worksapceExamenJunio\proxyPattern\src\main\resources
+2017-06-08 20:06:03,665 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-08 20:06:03,666 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lamiae\worksapceExamenJunio\proxyPattern\src\test\resources
+2017-06-08 20:07:53,434 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-08 20:07:53,435 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lamiae\worksapceExamenJunio\proxyPattern\src\main\resources
+2017-06-08 20:07:53,437 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-08 20:07:53,437 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lamiae\worksapceExamenJunio\proxyPattern\src\test\resources
+2017-06-08 20:08:16,322 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-08 20:08:16,323 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lamiae\worksapceExamenJunio\proxyPattern\src\main\resources
+2017-06-08 20:08:16,324 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-08 20:08:16,325 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lamiae\worksapceExamenJunio\proxyPattern\src\test\resources
+2017-06-08 20:08:27,961 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-08 20:08:27,961 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lamiae\worksapceExamenJunio\proxyPattern\src\main\resources
+2017-06-08 20:08:27,963 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-08 20:08:27,964 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lamiae\worksapceExamenJunio\proxyPattern\src\test\resources
+2017-06-08 20:12:22,534 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-08 20:12:22,534 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lamiae\worksapceExamenJunio\proxyPattern\src\main\resources
+2017-06-08 20:12:22,536 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.

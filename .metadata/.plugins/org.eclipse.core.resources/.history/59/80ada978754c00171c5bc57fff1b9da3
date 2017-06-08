@@ -11,6 +11,6 @@ public class MrMeeseeksTest extends TestCase {
 	
 	@Test
 	public void test() {
-		assertEquals(3, 3);
+		assertEquals(4, 4);
 	}
 }

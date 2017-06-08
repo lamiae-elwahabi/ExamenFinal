@@ -54,11 +54,6 @@ public class MrMeeseeks implements Doable {
 		
 		return null;
 	}
-	public void sayMessageOnDone() {
-		System.out.println("All done!");
-	}
-	public void 
-
 }
 
 

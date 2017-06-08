@@ -8,9 +8,9 @@ public class MrMeeseeksTest extends TestCase {
 	
 	MrMeeseeks mrMessessks = new MrMeeseeks();
 	
-	
+	//public void test
 	@Test
-	public void test() {
-		assertEquals(3, 3);
+	public void test1() {
+		assertEquals();
 	}
 }

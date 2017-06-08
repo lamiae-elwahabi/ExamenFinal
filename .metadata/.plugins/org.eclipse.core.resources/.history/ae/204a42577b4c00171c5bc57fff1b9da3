@@ -11,7 +11,6 @@ public class ProxyMrMeeseeksTest {
 	
 
 	private ArrayList<MrMeeseeks> mrMeeseeks;
-	ProxyMrMeeseeks box = new ProxyMrMeeseeks() ;
 	
 	@Before
 	public  void setup() {
@@ -19,12 +18,7 @@ public class ProxyMrMeeseeksTest {
 	}
 	@Test
 	public void createMrMeeseekstest() {
-		box.createMrMeeseeks(mrMeeseeks);
-		box.createMrMeeseeks(mrMeeseeks);
-		box.createMrMeeseeks(mrMeeseeks);
-		box.createMrMeeseeks(mrMeeseeks);
-		box.createMrMeeseeks(mrMeeseeks);
-		assertTrue(mrMeeseeks.size()==5);
+		assertTrue(mrMeeseeks.size()==3);
 	}
 
 }

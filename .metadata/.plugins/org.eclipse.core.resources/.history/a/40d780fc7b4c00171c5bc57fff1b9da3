@@ -23,8 +23,7 @@ public class ProxyMrMeeseeksTest {
 		box.createMrMeeseeks(mrMeeseeks);
 		box.createMrMeeseeks(mrMeeseeks);
 		box.createMrMeeseeks(mrMeeseeks);
-		box.createMrMeeseeks(mrMeeseeks);
-		assertTrue(mrMeeseeks.size()==5);
+		assertTrue(mrMeeseeks.size()==4);
 	}
 
 }

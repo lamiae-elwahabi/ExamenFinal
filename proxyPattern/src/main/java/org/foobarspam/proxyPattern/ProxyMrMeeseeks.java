@@ -2,9 +2,9 @@ package org.foobarspam.proxyPattern;
 
 import java.util.ArrayList;
 
-public class ProxyMrMeeseeks extends MrMeeseeks {
+public class ProxyMrMeeseeks {
 	//Propiedad
-	private ProxyMrMeeseeks mrMe;
+	private MrMeeseeks mrMe;
 	
 	//Constructor
 	public ProxyMrMeeseeks(){
@@ -12,29 +12,21 @@ public class ProxyMrMeeseeks extends MrMeeseeks {
 	}
 	
 	//Metodos
-	public ProxyMrMeeseeks getMrMe() {
+	public MrMeeseeks getMrMe() {
 		return mrMe;
 	}
 
-	public void setMrMe(ProxyMrMeeseeks mrMe) {
-		this.mrMe = mrMe;
-	}
-
-	public void pushButton(ArrayList<MrMeeseeks> setMrMe) {
-		
-		
-		
-		
+	public void pushButton(ArrayList<MrMeeseeks> mrMeeseeks) {
+		createMrMeeseeks(mrMeeseeks);
 	
 	}
-	public void createMrMeeseeks(ArrayList<MrMeeseeks> setMrMe) {
-		mrMe = (ProxyMrMeeseeks) new MrMeeseeks();
+	public void createMrMeeseeks(ArrayList<MrMeeseeks> mrMeeseeks) {
+		mrMe =  new MrMeeseeks();
+		mrMeeseeks.add(mrMe);
 		mrMe.sayMessageOnCreate();
 	}
 
-	public void formulateRequest(String string, String string2) {
-		
-	}
+	
 
 
-	}
+}

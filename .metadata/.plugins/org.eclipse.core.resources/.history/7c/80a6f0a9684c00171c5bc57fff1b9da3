@@ -1,0 +1,7 @@
+package org.foobarspam.proxyPattern;
+
+import junit.framework.TestCase;
+
+public class MrMeeseeksTest extends TestCase {
+
+}

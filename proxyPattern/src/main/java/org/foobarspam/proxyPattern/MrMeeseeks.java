@@ -1,8 +1,9 @@
 package org.foobarspam.proxyPattern;
 
 import java.util.concurrent.atomic.AtomicInteger;
+import java.util.Random;
 
-public class MrMeeseeks implements Dorable {
+public class MrMeeseeks implements Doable {
 	//Propiedades
 	private static AtomicInteger ID_GENERATOR = new AtomicInteger(1000);
 	private Integer id;
@@ -14,7 +15,7 @@ public class MrMeeseeks implements Dorable {
 	public MrMeeseeks(){
 		this.id = ID_GENERATOR.incrementAndGet();
 	}
-	//Getters
+	//Getters y Setters
 	public Integer getId() {
 		return id;
 	}
@@ -24,22 +25,29 @@ public class MrMeeseeks implements Dorable {
 	}
 	//Metodos 
 	public void sayMessageOnCreate(){
-		
-		System.out.println("I'm Mr Meeseeks 1001. Look at meeee!");
+		System.out.println("I'm Mr Meeseeks. Look at meeee!");
 		
 		
 	}
-	//public void sayMessageOnRequest(){
+	public void sayMessageOnRequest(){
+		
+		System.out.println("poooof" + id);
+	}
+
 		//String[] requestMessage = new String[];
 	
 	
-	/* generateMessageOnRequest()
-	 * elige al azar uno de los tres mensajes
-         * que lanza Mr Meeseeks cuando se le formula
-	 * la peticion:
-	 * "Oooh yeah! Can do!"; "Yes sireee!"; "Oh, yeah! Yes, ma'am!"
-         */	
-}
+	public String generateMessageOnRequest() {
+	/* elige al azar uno de los tres mensajes
+          que lanza Mr Meeseeks cuando se le formula
+	 * la peticion:*/
+	String [] mensaje = {"Oooh yeah! Can do!", "Yes sireee!", "Oh, yeah! Yes, ma'am!"};
+	int numRandon = (int) Math.round(Math.random() * 2 ) ;
 
+	System.out.println(  mensaje[numRandon] );
+	return messageOnDone;
+         	
+	}
+}
 
 

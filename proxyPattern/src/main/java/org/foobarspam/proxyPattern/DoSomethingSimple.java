@@ -1,10 +1,9 @@
 package org.foobarspam.proxyPattern;
 
-public interface DoSomethingSimple {
-	//private doSomethingSimple<T, R>
+public interface DoSomethingSimple<T, R> {
 	//Metodos
-//	public doRequest(T accion, R objeto)
-//	return T
+	public String doRequest(T accion,R objeto);
+
 	
 
 }

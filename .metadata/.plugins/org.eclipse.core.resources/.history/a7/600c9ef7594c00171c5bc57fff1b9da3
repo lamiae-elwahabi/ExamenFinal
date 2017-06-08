@@ -1,0 +1,10 @@
+package org.foobarspam.proxyPattern;
+
+public class ProxyMrMeeseeks {
+	
+	//Constructor
+	ProxyMrMeeseeks(){
+		
+	}
+
+}

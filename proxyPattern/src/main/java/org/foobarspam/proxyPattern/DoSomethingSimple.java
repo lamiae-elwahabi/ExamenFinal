@@ -4,6 +4,4 @@ public interface DoSomethingSimple<T, R> {
 	//Metodos
 	public String doRequest(T accion,R objeto);
 
-	
-
 }

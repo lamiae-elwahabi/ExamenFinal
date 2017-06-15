@@ -372,3 +372,8 @@
 2017-06-08 20:59:10,004 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lamiae\worksapceExamenJunio\proxyPattern\src\main\resources
 2017-06-08 20:59:10,005 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-06-08 20:59:10,006 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lamiae\worksapceExamenJunio\proxyPattern\src\test\resources
+2017-06-12 19:25:59,198 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-06-12 19:32:16,313 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 19:32:16,314 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lamiae\worksapceExamenJunio\proxyPattern\src\main\resources
+2017-06-12 19:32:16,317 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 19:32:16,318 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lamiae\worksapceExamenJunio\proxyPattern\src\test\resources
